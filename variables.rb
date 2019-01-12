@@ -105,6 +105,8 @@ class LocaleProvider
     end
     def display_information
         puts self.get_language
+        puts "I'm in #{__FILE__}"
+        puts "at: #{__LINE__}"
     end
 end
 
