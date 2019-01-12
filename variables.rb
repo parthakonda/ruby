@@ -79,7 +79,6 @@ class Theme
     THEME_NAME = 'ant-d'
     THEME_VERSION = 0.1
     def show_meta
-        puts self.THEME_NAME
         puts "Theme Name: #{THEME_NAME}"
         puts "Theme Version: #{THEME_VERSION}"
     end
@@ -93,3 +92,21 @@ end
 antd_theme = Theme.new
 antd_theme.show_meta
 
+# Pseudo Variables
+class LocaleProvider
+    def initialize(language='en-US', enabled=false, available=true, version=nil)
+        @language = language
+        @enabled = enabled
+        @available = available
+        @version = version
+    end
+    def get_language
+        return @language
+    end
+    def display_information
+        puts self.get_language
+    end
+end
+
+en_us_localate_provider = LocaleProvider.new
+en_us_localate_provider.display_information
