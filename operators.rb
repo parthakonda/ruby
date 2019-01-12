@@ -137,7 +137,6 @@ end
 # defined? operator
 sample = 10
 class MyClass
-
     def new_method
         puts "new method"
     end
