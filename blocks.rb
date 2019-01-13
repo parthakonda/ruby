@@ -1,0 +1,11 @@
+=begin
+Understanding blocks
+@author: Partha Saradhi Konda
+=end
+def test
+    puts "You are in the method"
+    yield
+    puts "You are again back to the method"
+    yield
+ end
+ test {puts "You are in the block"}

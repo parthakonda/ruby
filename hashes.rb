@@ -1,5 +1,6 @@
 =begin
 Understanding hashes (dictionaries)
+@author: Partha Saradhi Konda
 =end
 
 # Defining Hash

@@ -1,5 +1,6 @@
 =begin
 Understanding arrays
+@author: Partha Saradhi Konda
 =end 
 
 # Defining array

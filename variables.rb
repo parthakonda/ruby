@@ -1,5 +1,6 @@
 =begin
 This is regarding understanding 5 types of variables in Ruby
+@author: Partha Saradhi Konda
 =end
 
 # Global Variable

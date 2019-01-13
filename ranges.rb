@@ -1,5 +1,6 @@
 =begin
 Understanding ranges
+@author: Partha Saradhi Konda
 =end
 
 # Ranges as sequences

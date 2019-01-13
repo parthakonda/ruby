@@ -1,5 +1,6 @@
 =begin
 Understanding operators
+@author: Partha Saradhi Konda
 =end
 
 

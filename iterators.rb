@@ -1,7 +1,7 @@
 =begin
 Understanding iterators
+@author: Partha Saradhi Konda
 =end
-
 products = ["Alexa Device", "RedMi Pro", "MacBook Pro", "Magic Mouse"]
 
 products.each do |product|

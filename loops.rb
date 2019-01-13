@@ -1,5 +1,6 @@
 =begin
 understanding loops
+@author: Partha Saradhi Konda
 =end
 
 # while

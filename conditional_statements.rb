@@ -1,6 +1,7 @@
 =begin
 Understanding conditional statement such as
 if..else, case, unless
+@author: Partha Saradhi Konda
 =end
 
 marks = 22

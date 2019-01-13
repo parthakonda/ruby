@@ -1,3 +1,7 @@
+=begin
+Understanding begin end
+@author: Partha Saradhi Konda
+=end
 puts "This is first line of the program"
 
 BEGIN {

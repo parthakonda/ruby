@@ -1,5 +1,6 @@
 =begin
 Understanding methods
+@author: Partha Saradhi Konda
 =end
 
 # Simple method

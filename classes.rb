@@ -1,3 +1,7 @@
+=begin
+Understanding Class
+@author: Partha Saradhi Konda
+=end
 # Understanding class and static variable
 class MyClass
     @@static_variable = 0

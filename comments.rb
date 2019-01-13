@@ -1,3 +1,7 @@
+=begin
+Understanding comments
+@author: Partha Saradhi Konda
+=end
 # This is a comment, nothing harm
 
 # Very useful
